@@ -1,0 +1,20 @@
+/*
+
+selector (element){ (alt-gr+7)
+egenskap1:värde1;
+egenskap1:värde2;
+}(alt-gr+8)
+
+*/
+
+h1{
+    color:hotpink;
+    background-color: rgb(255, 189, 241);
+}
+
+body{
+    background-image: url(https://www.colorhexa.com/ffdef2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
